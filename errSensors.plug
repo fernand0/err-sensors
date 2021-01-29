@@ -1,0 +1,10 @@
+[Core]
+name = errsensors
+module = errSensors
+
+[Documentation]
+description = Show the results of reading sensors attached to my Raspberry Pi.
+
+[Python]
+version = 3
+
